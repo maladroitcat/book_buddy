@@ -1,0 +1,9 @@
+# Book Buddy theme — grimdark, Age of Madness inspired.
+# Iron-and-leather darks with a smoldering blood-crimson accent.
+[theme]
+base = "dark"
+primaryColor = "#a8322d"
+backgroundColor = "#16120f"
+secondaryBackgroundColor = "#231c17"
+textColor = "#ddd2c1"
+font = "serif"
