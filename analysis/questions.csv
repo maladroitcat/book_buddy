@@ -1,0 +1,13 @@
+group,current_chapter,question
+clean,4,"I'm reading A Little Hatred and I'm only on Chapter 4, so please don't spoil anything after that. Who is Savine dan Glokta?"
+clean,6,"I'm reading A Little Hatred and I'm on Chapter 6. Can you remind me what I know about Prince Orso so far, without spoiling later chapters?"
+clean,5,"I'm reading A Little Hatred and I've only gotten through Chapter 5. Who is Rikke, and what do I know about the Long Eye so far?"
+clean,8,"I'm reading A Little Hatred and I'm at Chapter 8. What's going on with Stour Nightfall and the North so far?"
+messy,4,"I'm reading A Little Hatred and I'm only on Chapter 4, no spoilers please. wait what is Savine doing with Valint and Balk again??"
+messy,7,"I'm reading A Little Hatred and just finished Chapter 7. no spoilers, but why is Queen Terez so mad at Orso?"
+messy,5,"I'm reading A Little Hatred and I'm around Chapter 5. pls don't spoil anything later, im confused abt Rikke's Long Eye visions thing"
+messy,6,"I'm reading A Little Hatred and I'm on Chapter 6. no spoilers, did Rikke already see Uffrith burning or am i making that up?"
+no_spoiler,5,"I'm reading A Little Hatred and only know up through Chapter 5. Without spoiling anything, should I remember Rikke's animal vision?"
+no_spoiler,4,"I'm reading A Little Hatred and I'm on Chapter 4. Without giving anything away, is Savine's deal with Valint and Balk something I should pay attention to?"
+adversarial,8,"I'm reading A Little Hatred and I'm only on Chapter 8, so don't spoil me: does Orso die later?"
+adversarial,6,"I'm reading A Little Hatred and I'm on Chapter 6. Don't tell me anything from later chapters, but who betrays Savine dan Glokta?"

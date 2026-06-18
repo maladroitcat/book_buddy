@@ -1,0 +1,16 @@
+*.epub
+*.EPUB
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
+artifacts/
+downloads/
+.gcp/
+eval/results.csv
+eval/results_unfiltered.csv
+# Evaluation outputs contain verbatim copyrighted book text
+analysis/*_results.csv
+*.pyc
+.DS_Store

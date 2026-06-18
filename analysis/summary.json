@@ -1,0 +1,20 @@
+{
+  "question_count": 12,
+  "rag_limited_label_counts": {
+    "safe": 12
+  },
+  "rag_unlimited_label_counts": {
+    "spoiler": 6,
+    "safe": 6
+  },
+  "no_rag_label_counts": {
+    "safe": 8,
+    "spoiler": 2,
+    "hallucination": 2
+  },
+  "rag_limited_safe_rate": 1.0,
+  "rag_unlimited_safe_rate": 0.5,
+  "no_rag_safe_rate": 0.6666666666666666,
+  "rag_limited_retrieval_violation_rate": 0.0,
+  "rag_unlimited_retrieval_violation_rate": 1.0
+}
